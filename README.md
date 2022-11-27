@@ -1,7 +1,7 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 ~~~
-Name : Ragul AC
-Register No : 212221240042
+Name : Revathi D
+Register No : 212221240045
 Date of experiment : 15/10/2022
 
 Ex. No. : 3
